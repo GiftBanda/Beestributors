@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a mock up for the beestributors website. An ecommerce website focused on distribution of beverages. Developed with love by Gift Banda. Open to web/mobile app developer jobs.
 
 ## Available Scripts
 
